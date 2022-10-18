@@ -1,0 +1,7 @@
+a = 5
+function suma(a,b){
+	var x = 8
+	let y = 9
+	return a + b
+}
+console.log(suma(30,4))

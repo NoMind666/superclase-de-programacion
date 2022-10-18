@@ -1,0 +1,8 @@
+languajes = {'Java':4,
+'JavaScript':5,
+'Python':8}
+for(l in languajes)
+ console.log("Lenguaje: "+languajes[l])
+ console.log(languajes['JavaScript'])
+
+

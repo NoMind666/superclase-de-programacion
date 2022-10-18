@@ -1,0 +1,12 @@
+
+<html>
+<head>
+	<title>Curso de JavaScript</title>
+	<meta name="description" content="come scrivere">
+</head>
+<body>
+<script type="text/javascript">
+	document.write('Sea la luz')
+</script>
+</body>
+</html>
